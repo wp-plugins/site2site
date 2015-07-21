@@ -1,0 +1,26 @@
+.s2s-container {
+	float: left;
+	width: 700px;
+	margin-top: 30px;
+}
+
+.s2s-item {
+	float: left;
+	width: 10px;
+	height: 10px;
+	background-color: #fff;
+	border: 1px solid #c0c0c0;
+	margin: 5px;
+}
+
+.s2s-loading {
+	background-color: #c0c0c0;
+}
+
+.s2s-ok {
+	background-color: green;
+}
+
+.s2s-ko {
+	background-color: red;
+}
